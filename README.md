@@ -1,6 +1,6 @@
 # Seiya-Saiga VN Walkthrough URL Tool
 
-A simple Python tool to fetch and search vn walkthrough URLs from seiya-saiga.com.
+A simple Python tool to fetch and search vn walkthrough URLs from [seiya-saiga.com](https://seiya-saiga.com).
 
 ## Features
 
